@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Imran Farooq",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer 24/7. #ReactGeek",
+    "image": "imran.jpg",
+    "bio": "My name is Imran, I'm a Full Stack ReactJS Developer. Currently I'm working at Fixel Cloud while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "imran_farooq7@hotmail.com",
+    "phone": "+923074456983",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Lahore",
+      "state": "Pakistan",
+      "zip": "54000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/imran.farooq.376/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/imran-farooq-0268523b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/imran_farooq77/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/imran-farooq7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Virtual university",
+        "degree": "Masters in Computer Science",
+        "graduated": "September 2022",
+        "description": "continued"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fixel Cloud",
+        "title": "Front end developer",
+        "years": "December 2019 - Present",
+        "description": "Developing UI with React JS"
+      },
+      {
+        "company": "Fixel Cloud",
+        "title": "UI designer",
+        "years": "Jan 2019 - Dec 2019",
+        "description": "Design UI with Adobe XD"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Rest API",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "BootStrap",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WEB Automation web app",
+        "category": "Web automation built with (HTML, CSS, Bootstrap, Jquery)",
+        "image": "WA.png",
+        "url": "http://doorfarm.com/Scrapestar/scrapstar/index.html"
+      },
+      {
+        "title": "Auto optimize web app",
+        "category": "Auto optimize built with (HTML, CSS, Bootstrap, Jquery)",
+        "image": "ao.png",
+        "url": "http://doorfarm.com/Scrapestar/autooptimize/index.html#"
+      },
+
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS",
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-4ef49.firebaseapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Imran must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Victor...Web Automation"
+      }
+    ]
+  }
+}
